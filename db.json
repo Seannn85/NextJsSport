@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "origin": "Europe",
+      "items": [
+        {
+          "id":1,
+          "companyName": "DAX",
+          "iexClose": 15654.03
+        },
+        {
+          "id":2,
+          "companyName": "FTSE 100",
+          "iexClose": 7525.99
+        },
+        {
+          "id":3,
+          "companyName": "CAC 40",
+          "iexClose": 7222.57
+        },
+        {
+          "id":4,
+          "companyName": "IBEX 35",
+          "iexClose": 9430.10
+        },
+        {
+          "id":5,
+          "companyName": "STOXX 50",
+          "iexClose": 4226.49
+        }
+      ]
+    },
+    {
+      "origin": "US",
+      "items": [
+        {
+          "id":6,
+          "companyName": "DOW JONES",
+          "iexClose": 34907.11
+        },
+        {
+          "id":7,
+          "companyName": "S&P",
+          "iexClose": 4505.10
+        },
+        {
+          "id":8,
+          "companyName": "NASDAQ",
+          "iexClose": 13926.05
+        },
+        {
+          "id":9,
+          "companyName": "RUSSEL",
+          "iexClose": 1866.63
+        },
+        {
+          "id":10,
+          "companyName": "VIX",
+          "iexClose": 12.77
+        }
+      ]
+    },
+    {
+      "origin": "Asia",
+      "items": [
+        {
+          "id":11,
+          "companyName": "Nikkei 225",
+          "iexClose": 33533.09
+        },
+        {
+          "id":12,
+          "companyName": "SSE",
+          "iexClose": 3117.74
+        },
+        {
+          "id":15,
+          "companyName": "HSI",
+          "iexClose": 18182.89
+        },
+        {
+          "id":13,
+          "companyName": "SENSEX",
+          "iexClose": 67838.63
+        },
+        {
+          "id":14,
+          "companyName": "NIFTY 50",
+          "iexClose": 89.25
+        }
+      ]
+    }
+  ]
+}
